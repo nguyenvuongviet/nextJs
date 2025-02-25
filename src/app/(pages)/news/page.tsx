@@ -43,7 +43,7 @@ export const metadata = {
 export default function News() {
   return (
     <div>
-      <h1>News</h1>
+      <h1>News page</h1>
     </div>
   );
 }
